@@ -32,7 +32,7 @@ The libraries used for the project are as follows:
 - scipy - for visualizations
 
 
-## EXECUTING THE CODE
+## FOLLOWING THE PROJECT
 
 1. Read the Project Brief (01 Project Brief)
 2. Execute scripts in the order provided (02 Scripts)
