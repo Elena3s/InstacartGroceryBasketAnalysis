@@ -11,7 +11,7 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 
 ## DATA
 
-The datasets on the followng were used:
+The datasets are available on the following:
 
 - orders
 - products
