@@ -27,8 +27,9 @@ The libraries used for the project are as follows:
 
 - pandas - for data analysis
 - numpy - for data analysis
-- os - for data analysis
 - seaborn - for visualizations
+- matplotlib - for visualizations
+- scipy - for visualizations
 
 
 ## EXECUTING THE CODE
