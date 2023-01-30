@@ -22,7 +22,7 @@ For the full original data, please, check the folder 02 Data -> Original data
 
 ## TOOLS
 
-The toold used for the project are as follows:
+The tools used for the project are as follows:
 
 
 
