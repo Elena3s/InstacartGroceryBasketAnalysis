@@ -18,7 +18,7 @@ The datasets are available on the following:
 - departments
 - customers
 
-For the full original data, please, check the RESOURCES
+For the full original data, please, check the RESOURCES below
 
 
 ## TOOLS
