@@ -34,7 +34,10 @@ The libraries used for the project are as follows:
 
 ## EXECUTING THE CODE
 
-
+1. Read the Project Brief (01 Project Brief)
+2. Execute scripts in the order provided (02 Scripts)
+3. Check out the charts (03 Viz)
+4. Read the Final Report (04 Final Report)
 
 ## RESOURCES
 
