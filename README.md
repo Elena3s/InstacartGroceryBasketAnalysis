@@ -22,9 +22,12 @@ For the full original data, please, check the folder 02 Data -> Original data
 
 ## TOOLS
 
-The tools used for the project are as follows:
+The libraries used for the project are as follows:
 
-
+- pandas - for data analysis
+- numpy - for data analysis
+- os - for data analysis
+- seaborn - for visualizations
 
 
 ## EXECUTING THE CODE
