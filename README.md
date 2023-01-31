@@ -50,6 +50,5 @@ The libraries used for the project are as follows:
 
 ## IMPORTANT
 
-Since the customer information data used for the current project 
-has been fabricated, the charts and conclusions cannot be used to make business 
-decisions. The charts and the conclusions are meant for illustrative purposes only.![image](https://user-images.githubusercontent.com/123763871/215638655-a2f16fde-1712-4803-8e36-e91ad0b66760.png)
+![image](https://user-images.githubusercontent.com/123763871/215648239-c54374d2-7d14-4324-88da-bf8b01920641.png)
+
