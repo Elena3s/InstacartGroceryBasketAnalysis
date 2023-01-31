@@ -39,7 +39,7 @@ The libraries used for the project are as follows:
 3. Check out the charts (03 Viz)
 4. Read the Final Report (04 Final Report)
 
-## RESOURCES
+## DATA SOURCES
 
 - The Instacart Online Grocery Shopping Dataset 2017”, accessed from https://www.instacart.com/datasets/grocery-shopping-2017 in December 2022.
 - Orders and Products: https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
