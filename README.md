@@ -46,3 +46,10 @@ The libraries used for the project are as follows:
 - Departments: https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip
 - Customers: https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 - Data Dictionary: https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
+
+
+## IMPORTANT
+
+Since the customer information data used for the current project 
+has been fabricated, the charts and conclusions cannot be used to make business 
+decisions. The charts and the conclusions are meant for illustrative purposes only.![image](https://user-images.githubusercontent.com/123763871/215638655-a2f16fde-1712-4803-8e36-e91ad0b66760.png)
