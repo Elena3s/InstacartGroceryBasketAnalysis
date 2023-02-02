@@ -23,20 +23,21 @@ For the full original data, please, check the RESOURCES below.
 
 ## TOOLS
 
-The libraries used for the project are as follows:
+- The libraries used for the project are as follows:
 
-- pandas - for data analysis
-- numpy - for data analysis
-- seaborn - for visualizations
-- matplotlib - for visualizations
-- scipy - for visualizations
+      - pandas - for data analysis
+      - numpy - for data analysis
+      - seaborn - for visualizations
+      - matplotlib - for visualizations
+      - scipy - for visualizations
 
+- Jupiter
 
 ## FOLLOWING THE PROJECT
 
 1. Read the Project Brief (01 Project Brief)
-2. Modify the scripts to reflect the location of the dowloaded data files on your device (02 Scripts)
-3. Execute scripts in the order provided (02 Scripts)
+2. Modify the notebooks to reflect the location of the dowloaded data files on your device (02 Scripts)
+3. Execute the notebooks in the order provided (02 Scripts)
 4. Check out the charts (03 Viz)
 5. Read the Final Report (04 Final Report)
 
